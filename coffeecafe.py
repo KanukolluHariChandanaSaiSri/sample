@@ -26,10 +26,6 @@
 
 
 #CODE:
-
-
-
-
 # Initial stock of espresso coffee beans in grams
 espresso_beans_stock = 5000  
 # History of espresso bean usage to simulate input from an IoT device and for predictive analytics
